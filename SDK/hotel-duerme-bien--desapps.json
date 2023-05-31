@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hotel-duerme-bien--desapps",
+  "private_key_id": "9d0456be45db3a18e72edd5f155dcd14e6b1a84b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDStON83BUEyJlt\naVFRReWcPoAlzU0j15WPtlrJlPsNGqPv0Kbek0Qw9yxVZf8S6m5TMWbVDf65dXWs\npJQAdGK0V46NrfxWfbiBJpMbU1/zAN1n5h+kIUXajhl9etP8qCHUF1oaMDt6zjqz\nkk6yXFWoTlqmWJkrf/JaNjvp3Vdb6gyCNMT8xgRrn7upuBXogU2eVMP3iGZ1bZHc\nFtSCsSPO4ZNfB26yHtHzR/OFwO9ixcQQFSIgdoF8hV24AChvKTNu0Y7f+wIUMiFc\nPw9s807I6xyzp+uH/4FdS7FmaoHbJRAWjZKVZI3i3vjSf7MJQB8dLDIatnRpL26g\noO1tOx95AgMBAAECggEAAemYGIn0FB3h/9rE8LhKsZ6Wr1TYP7T1JsvvT3tlicvp\nGwQOWYfoMsYxtzRo8yFjSjIsNcUnv7ocDO+k3Xx/t+3xXYcTIhuvZ0N2cjQMX79F\n4LpjwquxGrLPo/TtN83IaNJVIbkaz99jK+938z0bdyidD2gUdko67qxguv39Pk6y\nxrxQ6WNaySqMcinD3hwVPaETc36LFAg55s8WA1esifPZjx6V0S4azL3hNyL4XivB\nZUDOCnCU4qXk22eRUHhk0K1WLbS5Z/c8qOv+yC7WydqTupvlefZIGkQTj8wHtbNh\n5Mzyo5zAIq/2kYgAp1lPdn74oQ4GYCtlc9VgOr9nFQKBgQDvGtvvnitD5SUorrmv\n0FSvVZp7DPbj2SDgkI5a2gnYbrWkWvx9Rz5g0soro0it9xzn1xNey8CTfYL/x8Sn\ng/mtYy71WpxrlUES3o++hXUpdB/5CvgBHssmt7tUQ3bKQziONFtlgyX1VE7lzoDo\nWGj9NKDjaSqXATZMe1HcGlCobwKBgQDhmFXoEZZXKPqohfn7jPTZ7jcOPaGEriT+\nx0jTMElT4Psdkw9XFZDmSPN0OLo3EG+LLaHDydUsVUa1tBBKT/uw4sBj1vLZd8/q\nClSSE8jgNUC1cF8aX+gm5l9X7WYCQu/kn3Vja48usprKGsHmBD86nymYG+VLZWxE\n8HsrW3ualwKBgCi87MgQrNJukjwyONTpq+QLs7xPYylC70UTnA2CpLbJdg1Aq1A0\n+T3J7EQvF8z8E2K01EoMcQ0wD0fBI5Je/AU8pt2KyKfT0DiEzvzpBCNB88icw9B9\nDKPWHganT+/6MAKajQ/onmkEKkUhP/lWRt0NQHQ+kNEVlcjGIhZcLW3lAoGAZ42o\nqV0hWKL75E2TgU+juUGqzgOmV6QkYTsTB7YbgsA8JMgze3Lvz3VfI1NCzzHhMc7h\neWD1VGNUkOW1sJbkXr7HN00croxbyP+y8Fbal2h6ao7JaO7rPqfyzgawE4usWJKF\nrPxbfkEH4ovDw5ThfURAMI1lhGVq/H4y26UjqMMCgYEA1UlJzoZisZSZbIryFId/\nCloZbDDdOofhZAby6J4Z/SpXkm0p8lR7fWe21TyP6PccrrlYHaEqoPjThYuupZ8a\ndEMjRO+PGmwRlEuf2DsMdS2UJIDBY26Pcn8ihT7mdlY62SUiXi2RzVJIoQIxvwix\nILDqfd7yda/j3+6xEnlNIAc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ue1ql@hotel-duerme-bien--desapps.iam.gserviceaccount.com",
+  "client_id": "100146338812098158665",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ue1ql%40hotel-duerme-bien--desapps.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
